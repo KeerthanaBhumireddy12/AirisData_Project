@@ -1,0 +1,4 @@
+salesdata
+idandnames
+sales_base_table=hive_salesdata
+idnames_base_table=hive_idnames
